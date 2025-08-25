@@ -23,3 +23,8 @@ En este proyecto repasé conceptos importantes de programación:
 - Bucles (for) para recorrer listas.
 - Manipulación del DOM con getElementById y innerHTML.
 - Generación de valores aleatorios con Math.random() y Math.floor().
+
+## Vista previa
+<img width="829" height="564" alt="Captura de pantalla 2025-08-25 015304" src="https://github.com/user-attachments/assets/291ac3fc-9b09-40c4-880b-28a418fdcf77" />
+
+
